@@ -1,3 +1,3 @@
-Projekty z 2 semestru studiów z algebry liniowej:
-- kody liniowe
-- warsztat badawczy: analiza składowych głównych
+Projects from 2 semester Linear algebra in data analysis course:
+- linear codes
+- research workshop: principal components analysis
